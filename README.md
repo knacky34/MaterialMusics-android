@@ -11,8 +11,9 @@ A material design music player for Android.
 ## Building
 
 Prerequisites :
-⋅⋅⋅ - Java 1.8 JDK
-⋅⋅⋅ - Android SDK
+- Java 1.8 JDK
+- Android SDK
 
+Build and install :
 1) `gradle build` to build the APK
 2) `gradle installDebug` to install the APK
